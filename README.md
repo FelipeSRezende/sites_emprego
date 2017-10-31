@@ -21,6 +21,15 @@ www.indeed.com.br
 
 www.neuvoo.com.br
 
+www.sine.com.br
+
+www.nube.com.br
+
+www.vagas.com.br
+
+www.curriculum.com.br
+
+
 
 # Sites para freelance
 
